@@ -10,5 +10,6 @@
 
 ```{toctree}
 server
+terraria-server
 minecraft-server
 ```
