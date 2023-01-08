@@ -1,0 +1,11 @@
+git-gudder-env/
+__pycache__
+!.github/*
+
+/bin
+*.env
+.cache
+*.spec
+
+./tests/*
+*.zip
