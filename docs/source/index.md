@@ -10,5 +10,5 @@
 
 ```{toctree}
 :maxdepth: 1
-game-servers
+game-servers\
 ```
