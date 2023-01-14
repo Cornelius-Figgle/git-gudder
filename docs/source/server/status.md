@@ -1,0 +1,3 @@
+# Server Statuses
+
+*coming soon*

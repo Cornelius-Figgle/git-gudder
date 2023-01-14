@@ -4,6 +4,8 @@
 
 ```{toctree}
 :maxdepth: 1
+status
+
 terraria-server
 minecraft-server
 ```
