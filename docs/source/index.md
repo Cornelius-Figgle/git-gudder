@@ -10,5 +10,7 @@
 
 ```{toctree}
 :maxdepth: 1
-game-servers\
+game-servers\index
+game-servers\minecraft-server
+game-servers\terraria-server
 ```
