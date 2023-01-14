@@ -23,6 +23,10 @@ extensions = [
     'myst_parser',
 ]
 
+myst_enable_extensions = [
+  "colon_fence",
+]
+
 templates_path = ['_templates']
 
 # -- Options for HTML output

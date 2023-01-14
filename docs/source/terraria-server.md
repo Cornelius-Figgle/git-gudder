@@ -9,5 +9,5 @@
 
 | Platform | Fully Supported | Hackily Supported | Notes |
 | - | - | - | - |
-| Mobile (Android & iOS) | ✅ | ⬛ | |
-| Steam-supported PC | ❌ | 〰️ | *aka* Windows or macOS |
+| Mobile (Android & iOS) | ✅ | | |
+| Steam-supported PC | ❌ | | *aka* Windows or macOS |
